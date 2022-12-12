@@ -1,7 +1,7 @@
 <?php 
 	
 /*
-	Template Name: Roselle Template
+	Template Name: Page No Title
 */
 	
 get_header(); ?>
